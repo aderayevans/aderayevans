@@ -18,7 +18,7 @@
 - [Stack](https://github.com/aderayevans/Stack)
 - [Set](https://github.com/aderayevans/Set)
 - [Binary Search Tree](https://github.com/aderayevans/Tree)
-- 
+- [HashTable](https://github.com/aderayevans/HashTable)
 - CircularDeque, Implement Dijkstra Using Heap at [repo](https://github.com/aderayevans/DataStructuresDesign)
 
 <hr>
@@ -38,7 +38,6 @@ Convert between **Regular Grammar** and **Finite Automata** Program at [repo](ht
 
 Building A Decision Tree Regressor from scratch using numpy, pandas library in Python, Using Dataset Seoul Bike Sharing Demand to train and test at [repo](https://github.com/aderayevans/BuildDecisionTreeRegressor)
 
-
 ![image](https://user-images.githubusercontent.com/55154153/210185837-c1a59e46-c084-421f-a6c8-52b4f05fa274.png)
 
 <hr>
@@ -49,11 +48,92 @@ My first windows application in C# at repo [CinemaManager](https://github.com/ad
 
 <hr>
 
-
+Make simple **Calculator** in java using MVC model at [repo](https://github.com/aderayevans/calculationApp) 
 
 <hr>
 
-Template for OpenGL, GLFW, SFML, SDL2
+Make Python Application using tkinter for interface, implement Cryptography algorithms
+
+- Symmetric-key algorithm DES, AES
+- Asymmetric-key algorithm RSA, Diffie-Hellman
+- Hash MD5, SHA1, SHA256, SHA224, SHA512
+- Create Digital Signature
+- Create Digital Certificate, verify Certificate
+
+![image](https://user-images.githubusercontent.com/55154153/210186524-1337fbcf-8b40-46e9-80c6-77d6512c37c4.png)
+
+<hr>
+
+Reconstruct 3D model from Chest CT photos at [repo](https://github.com/aderayevans/DICOM2Model3D)
+
+![image](https://user-images.githubusercontent.com/55154153/210186798-5e907a4d-e8e7-4e4f-9ea3-6a0d0c929ff4.png)
+
+<hr>
+
+Oracle exercises at [repo](https://github.com/aderayevans/OracleLabs)
+
+<hr>
+
+Build Object Detection to Detect household appliances and hotdog (Like Jian Yang hot dog-identifying app from Silicon Valley HBO tv series) using TensorFlow 2 Object Detection API at [repo](https://github.com/aderayevans/Tensorflow)
+
+![image](https://user-images.githubusercontent.com/55154153/210187023-386ef0d4-51e8-472f-a81a-6dabcc38a5a2.png)
+
+<hr>
+
+Build Image processing app using QT Creator in C++ implement image processing algorithms at [repo](https://github.com/aderayevans/ImageProcessing)
+
+![image](https://user-images.githubusercontent.com/55154153/210187088-e8d12628-4ca4-4332-bb82-37db96d27524.png)
+
+![image](https://user-images.githubusercontent.com/55154153/210187034-a54c2b3e-26d5-455e-80a2-eb585ea734bb.png)
+
+<hr>
+
+Make Bus ticket booking application in C++ at [repo](https://github.com/aderayevans/Daewoo)
+
+<hr>
+
+Learn multi-thread solving prime number problem at [repo](https://github.com/aderayevans/primeNumberThreads)
+
+Learn mutex and condition_variable solving Producer and Consumer problem at [repo](https://github.com/aderayevans/ProducerNComsumerThreads/blob/main/process.cpp)
+
+Learn socket and using select() system call to building TCP Server handle multiple clients to send and receive files at [repo](https://github.com/aderayevans/socketClientServer)
+
+<hr>
+
+Collect typical Design Patterns at [repo](https://github.com/aderayevans/DesignPattern)
+
+Implement Abstract Factory design pattern to build 2D-3D-circle-square drawing application using QT Creator in C++ at [repo](https://github.com/aderayevans/DrawingUsingAbstractFactory)
+
+<hr>
+
+Learning GO at [repo](https://github.com/aderayevans/Go-I-am-comin)
+
+<hr>
+
+Build American Sign Language Detection for an OpenGL simple Game using ACTION RECOGNITION with python, MediaPipe to train at [repo](https://github.com/aderayevans/gesture-controlled-3d-game)
+
+![image](https://user-images.githubusercontent.com/55154153/210187409-40f9ad05-77a5-478c-a77e-35d7aa5b14f4.png)
+
+![image](https://user-images.githubusercontent.com/55154153/210187404-5f321222-1b2f-4649-b284-8acff319b5fd.png)
+
+<hr>
+
+Learning Django at [repo](https://github.com/aderayevans/Django-starting-point)
+
+Build a **Django** backend at [repo](https://github.com/aderayevans/django-backend)
+Build a **Vue js** frontend at [repo](https://github.com/aderayevans/vuejs-frontend)
+
+<hr>
+
+Write some blogs at [repo](https://github.com/aderayevans/blogs) and [dev.to](https://dev.to/t/aderayevans)
+
+<hr>
+
+My Thesis before graduated: Building engine to visualize 3D structure of Machine learning model at [repo](https://github.com/aderayevans/Thesis)
+
+<hr>
+
+Template for GLFW, SFML, SDL2 to making game
 - [GLFW](https://github.com/aderayevans/GLFW)
 - [SDL2-Template](https://github.com/aderayevans/SDL2-Template)
 - [SFML-Template](https://github.com/aderayevans/SFML-Template)
